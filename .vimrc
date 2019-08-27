@@ -10,8 +10,6 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'dense-analysis/ale'
 Plugin 'mxw/vim-jsx'
 Plugin 'alvan/vim-closetag'
-Plugin 'ludovicchabant/vim-gutentags'
-Plugin 'kristijanhusak/vim-js-file-import'
 Plugin 'mattn/emmet-vim'
 
 call vundle#end()
